@@ -1,0 +1,14 @@
+
+---Downloaded files---
+The import files for: Home_4 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/spirex
+Data file = C:\xampp\htdocs\spirex\wp-content\plugins\pikoworks_dummy/dummy/home_4/dummy.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---pt-ocdi/after_import---
+ Slider processed

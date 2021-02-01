@@ -1,0 +1,42 @@
+2021-01-29T16:48:50+00:00 CRITICAL Cannot declare class OCDI_Plugin, because the name is already in use in C:\xampp\htdocs\spirex\wp-content\plugins\one-click-demo-import\one-click-demo-import.php on line 21
+
+2021-01-29T16:48:51+00:00 CRITICAL Cannot declare class OCDI_Plugin, because the name is already in use in C:\xampp\htdocs\spirex\wp-content\plugins\one-click-demo-import\one-click-demo-import.php on line 21
+
+2021-01-29T16:48:52+00:00 CRITICAL Cannot declare class OCDI_Plugin, because the name is already in use in C:\xampp\htdocs\spirex\wp-content\plugins\one-click-demo-import\one-click-demo-import.php on line 21
+
+2021-01-29T16:49:13+00:00 CRITICAL Cannot declare class OCDI_Plugin, because the name is already in use in C:\xampp\htdocs\spirex\wp-content\plugins\one-click-demo-import\one-click-demo-import.php on line 21
+
+2021-01-29T16:49:15+00:00 CRITICAL Cannot declare class OCDI_Plugin, because the name is already in use in C:\xampp\htdocs\spirex\wp-content\plugins\one-click-demo-import\one-click-demo-import.php on line 21
+
+2021-01-29T16:49:15+00:00 CRITICAL Cannot declare class OCDI_Plugin, because the name is already in use in C:\xampp\htdocs\spirex\wp-content\plugins\one-click-demo-import\one-click-demo-import.php on line 21
+
+2021-01-29T17:25:03+00:00 CRITICAL Uncaught Error: Call to undefined function xtocky_post_format() in C:\xampp\htdocs\spirex\wp-content\plugins\pikoworks_core\core\js_composer\shortcodes\blog_post.php:244
+Stack trace:
+#0 C:\xampp\htdocs\spirex\wp-content\plugins\js_composer\include\classes\shortcodes\core\class-wpbakeryshortcode.php(362): WPBakeryShortCode_pikoworks_blog_post->content(Array, '')
+#1 C:\xampp\htdocs\spirex\wp-content\plugins\js_composer\include\helpers\helpers.php(1316): WPBakeryShortCode->output(Array, '')
+#2 C:\xampp\htdocs\spirex\wp-includes\shortcodes.php(343): vc_do_shortcode(Array, '', 'pikoworks_blog_...')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 C:\xampp\htdocs\spirex\wp-includes\shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(vc_cus...', 'do_shortcode_ta...', '[vc_custom_head...')
+#5 C:\xampp\htdocs\spirex\wp-content\plugins\js_composer\include\helpers\helpers.php(240): do_shortcode('[vc_custom_head...')
+#6 C:\xampp\htdocs\spirex\wp-content\plugins\js_composer\include\templates\shortcodes\vc_column.php( in C:\xampp\htdocs\spirex\wp-content\plugins\pikoworks_core\core\js_composer\shortcodes\blog_post.php on line 244
+
+2021-01-29T17:28:44+00:00 CRITICAL Uncaught Error: Call to undefined function xtocky_post_format() in C:\xampp\htdocs\spirex\wp-content\plugins\pikoworks_core\core\js_composer\shortcodes\blog_post.php:244
+Stack trace:
+#0 C:\xampp\htdocs\spirex\wp-content\plugins\js_composer\include\classes\shortcodes\core\class-wpbakeryshortcode.php(362): WPBakeryShortCode_pikoworks_blog_post->content(Array, '')
+#1 C:\xampp\htdocs\spirex\wp-content\plugins\js_composer\include\helpers\helpers.php(1316): WPBakeryShortCode->output(Array, '')
+#2 C:\xampp\htdocs\spirex\wp-includes\shortcodes.php(343): vc_do_shortcode(Array, '', 'pikoworks_blog_...')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 C:\xampp\htdocs\spirex\wp-includes\shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(vc_cus...', 'do_shortcode_ta...', '[vc_custom_head...')
+#5 C:\xampp\htdocs\spirex\wp-content\plugins\js_composer\include\helpers\helpers.php(240): do_shortcode('[vc_custom_head...')
+#6 C:\xampp\htdocs\spirex\wp-content\plugins\js_composer\include\templates\shortcodes\vc_column.php( in C:\xampp\htdocs\spirex\wp-content\plugins\pikoworks_core\core\js_composer\shortcodes\blog_post.php on line 244
+
+2021-01-29T19:53:59+00:00 CRITICAL Uncaught Error: Call to undefined function xtocky_post_format() in C:\xampp\htdocs\spirex\wp-content\plugins\pikoworks_core\core\js_composer\shortcodes\blog_post.php:244
+Stack trace:
+#0 C:\xampp\htdocs\spirex\wp-content\plugins\js_composer\include\classes\shortcodes\core\class-wpbakeryshortcode.php(362): WPBakeryShortCode_pikoworks_blog_post->content(Array, '')
+#1 C:\xampp\htdocs\spirex\wp-content\plugins\js_composer\include\helpers\helpers.php(1316): WPBakeryShortCode->output(Array, '')
+#2 C:\xampp\htdocs\spirex\wp-includes\shortcodes.php(343): vc_do_shortcode(Array, '', 'pikoworks_blog_...')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 C:\xampp\htdocs\spirex\wp-includes\shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(vc_cus...', 'do_shortcode_ta...', '[vc_custom_head...')
+#5 C:\xampp\htdocs\spirex\wp-content\plugins\js_composer\include\helpers\helpers.php(240): do_shortcode('[vc_custom_head...')
+#6 C:\xampp\htdocs\spirex\wp-content\plugins\js_composer\include\templates\shortcodes\vc_column.php( in C:\xampp\htdocs\spirex\wp-content\plugins\pikoworks_core\core\js_composer\shortcodes\blog_post.php on line 244
+
